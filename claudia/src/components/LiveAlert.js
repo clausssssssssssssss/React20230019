@@ -11,4 +11,4 @@ function LiveAlert () {
     );
 }
 
-export default LiveAlert
+export default LiveAlert;
